@@ -32,8 +32,9 @@ My research interest includes neural machine translation and computer vision. I 
   
 
 [Spatial feature point measurement on large-curved surfaces: A portable mobile measurement method based on monocular multi-angle point](https://www.sciencedirect.com/science/article/pii/S1110016822005841)
-</div></div>
+
 **Minling Lai**, Huiling Tang, Qilin Bi,ZhenYu Tang
+
 </div></div>
 
 
