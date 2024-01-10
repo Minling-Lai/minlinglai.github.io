@@ -35,7 +35,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Minling Lai**, Huiling Tang, Qilin Bi,ZhenYu Tang
 
-</div></div>
+\
 
 
 [Method for detecting surface defects of underwater buildings: Binocular vision based on sinusoidal grating fringe assistance](https://www.sciencedirect.com/science/article/pii/S1110016823005938)
@@ -43,7 +43,7 @@ My research interest includes neural machine translation and computer vision. I 
 Qilin Bi; **Minling Lai**; Jindong Yu; Zhengyu Tang; Xianbin Teng; Youjie Lu; Jiashu Zou
 
 
- </div></div>
+\
 
 [Ship Collision Avoidance Navigation Signal Recognition via Vision Sensing and Machine Forecasting](https://ieeexplore.ieee.org/document/10164232)
 
