@@ -28,7 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉. 
 
 # 📝 Publications 
- <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/1-s.jpg' alt="sym" width="10%"></div></div>
+
 [Spatial feature point measurement on large-curved surfaces: A portable mobile measurement method based on monocular multi-angle points](https://www.sciencedirect.com/science/article/pii/S1110016822005841))
 
 **Minling Lai**, Huiling Tang, Qilin Bi,ZhenYu Tang
@@ -53,8 +53,6 @@ Qilin Bi; **Minling Lai**; Huiling Tang; Yanyao Guo; Jinyuan Li; Xinhong Zeng; Z
 
 Qilin Bi; Miaohui Wang; **Minling Lai**; Jiaxin Lin; Jialin Zhang; Xiaoguang Liu
 
- <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/500x300.png' alt="sym" width="10%"></div></div>
-<div class='paper-box-text' markdown="1">
   
 [A Seamlessly Switch Method of Double Frequency Ship Electricity Grid from Shore Electricity Grid](https://www.semanticscholar.org/paper/A-Seamlessly-Switch-Method-of-Double-Frequency-Ship-Xiao-Lai/3d03cab764c94727e9f432ea1c697bc7da1c11c8?utm_source=direct_link)
 
