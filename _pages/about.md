@@ -31,18 +31,18 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Spatial feature point measurement on large-curved surfaces: A portable mobile measurement method based on monocular multi-angle points]
+[Spatial feature point measurement on large-curved surfaces: A portable mobile measurement method based on monocular multi-angle points](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 **Minling Lai**, Huilin Tang, Qilin Bi,ZhenYu Tang
 
-[Method for detecting surface defects of underwater buildings: Binocular vision based on sinusoidal grating fringe assistance]
+[Method for detecting surface defects of underwater buildings: Binocular vision based on sinusoidal grating fringe assistance](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-[Ship Collision Avoidance Navigation Signal Recognition via Vision Sensing and Machine Forecasting]
+[Ship Collision Avoidance Navigation Signal Recognition via Vision Sensing and Machine Forecasting](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-[Precise Inspection of Geometric Parameters for Polyvinyl Chloride Pipe Section Based on Computer Vision]
+[Precise Inspection of Geometric Parameters for Polyvinyl Chloride Pipe Section Based on Computer Vision](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-[Towards Automatic Surface Inspection forS-PVC Using a Composite Vision-based Method]
+[Towards Automatic Surface Inspection forS-PVC Using a Composite Vision-based Method](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-[A Seamlessly Switch Method of Double Frequency Ship Electricity Grid from Shore Electricity Grid]
+[A Seamlessly Switch Method of Double Frequency Ship Electricity Grid from Shore Electricity Grid](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
