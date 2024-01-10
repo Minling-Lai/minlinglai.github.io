@@ -25,8 +25,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉. 
+- *2022.02*: &nbsp;🎉🎉. 
 
 # 📝 Publications 
 
@@ -36,6 +36,20 @@ My research interest includes neural machine translation and computer vision. I 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+[Spatial feature point measurement on large-curved surfaces: A portable mobile measurement method based on monocular multi-angle points](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+[Method for detecting surface defects of underwater buildings: Binocular vision based on sinusoidal grating fringe assistance]
+
+[Ship Collision Avoidance Navigation Signal Recognition via Vision Sensing and Machine Forecasting]
+
+[Precise Inspection of Geometric Parameters for Polyvinyl Chloride Pipe Section Based on Computer Vision]
+
+[Towards Automatic Surface Inspection forS-PVC Using a Composite Vision-based Method]
+
+[A Seamlessly Switch Method of Double Frequency Ship Electricity Grid from Shore Electricity Grid]
+
+
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
