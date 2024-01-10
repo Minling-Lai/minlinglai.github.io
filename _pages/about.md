@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Currently, I am a research student at Guangdong University of Technology. My current research interest is computer vision， specifically studying image noising for rain, fog, and snow.  I have published over 6 papers in international journals Zone 2-3.
+Currently, I am a research student at Guangdong University of Technology. My current research interest is computer vision， specifically studying image noising for rain, fog, and snow.  I have published over 6 papers in international journals Zone 2-3.123456
 
 
 
