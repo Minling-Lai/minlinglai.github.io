@@ -61,7 +61,9 @@ Qilin Bi; Miaohui Wang; **Minling Lai**; Jiaxin Lin; Jialin Zhang; Xiaoguang Liu
 <div>
 
 <img src='images/1-s.jpg' =10x10 align="left" width="10"/>
+
 <div>
+  
 [A Seamlessly Switch Method of Double Frequency Ship Electricity Grid from Shore Electricity Grid](https://www.semanticscholar.org/paper/A-Seamlessly-Switch-Method-of-Double-Frequency-Ship-Xiao-Lai/3d03cab764c94727e9f432ea1c697bc7da1c11c8?utm_source=direct_link)
 
 Lemin Xiao; **Minling Lai**; Qilin Bi
