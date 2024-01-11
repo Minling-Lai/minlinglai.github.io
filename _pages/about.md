@@ -39,14 +39,14 @@ My research interest includes neural machine translation and computer vision. I 
 
 
   
-<img align="left" src='images/1-s2.jpg' width="200" />
+<img align="left" src='images/1-s3.jpg' width="200" />
 
 [Method for detecting surface defects of underwater buildings: Binocular vision based on sinusoidal grating fringe assistance](https://www.sciencedirect.com/science/article/pii/S1110016823005938)
 
 Qilin Bi; **Minling Lai**; Jindong Yu; Zhengyu Tang; Xianbin Teng; Youjie Lu; Jiashu Zou
 
 
-<img align="left" src='images/1-s2.jpg' width="200"/>
+<img align="left" src='images/1-s4.jpg' width="200"/>
 
 [Ship Collision Avoidance Navigation Signal Recognition via Vision Sensing and Machine Forecasting](https://ieeexplore.ieee.org/document/10164232)
 
@@ -54,7 +54,7 @@ Qilin Bi; **Minling Lai**; Jindong Yu; Zhengyu Tang; Xianbin Teng; Youjie Lu; Ji
 
 
   
-<img align="left" src='images/1-s2.jpg' width="200"/>
+<img align="left" src='images/1-s5.jpg' width="200"/>
 
 [Precise Inspection of Geometric Parameters for Polyvinyl Chloride Pipe Section Based on Computer Vision](https://iieta.org/journals/ts/paper/10.18280/ts.380608)
 
@@ -63,7 +63,7 @@ Qilin Bi; **Minling Lai**; Huiling Tang; Yanyao Guo; Jinyuan Li; Xinhong Zeng; Z
 
 
   
-<img align="left" src='images/1-s2.jpg' width="200"/>
+<img align="left" src='images/1-s6.jpg' width="200"/>
 
 [Towards Automatic Surface Inspection for S-PVC Using a Composite Vision-based Method](https://opg.optica.org/ao/abstract.cfm?URI=ao-59-4-1008)
 
@@ -72,12 +72,11 @@ Qilin Bi; Miaohui Wang; **Minling Lai**; Jiaxin Lin; Jialin Zhang; Xiaoguang Liu
 
 
   
-<img align="left" src='images/1-s2.jpg' width="200"/>
+<img align="left" src='images/1-s7.jpg' width="200"/>
 
 [A Seamlessly Switch Method of Double Frequency Ship Electricity Grid from Shore Electricity Grid](https://www.semanticscholar.org/paper/A-Seamlessly-Switch-Method-of-Double-Frequency-Ship-Xiao-Lai/3d03cab764c94727e9f432ea1c697bc7da1c11c8?utm_source=direct_link)
 
 Lemin Xiao; **Minling Lai**; Qilin Bi
-
 
   
 </div></div>
