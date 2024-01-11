@@ -83,9 +83,8 @@ Lemin Xiao; **Minling Lai**; Qilin Bi
 
 **Abstract:** In this work, the seamlessly switch systems between shore electricity and ship electricity of dual frequency mode (50Hz-60Hz and 50Hz-50Hz) is proposed. It is mainly used in the power supply of ships (Abbreviated as SEG) which stay in the port, and the problem that the grid needs to be disconnected when the ship is provided with electricity from the shore electricity is resolved. Firstly, the phase locked loop (Abbreviated as PLL) control model is established in seamlessly switch systems between shore electricity and ship electricity of dual frequency mode. Secondly, the V/f control model of seamlessly switch systems is established, and the frequency (f) follow is implemented in seamlessly switch systems combined with the phase locked loop control model. At last, the P/Q control model of seamlessly switch systems is proposed. The load power is transferred from the ship's generator to the shore electricity grid combined with phase locked loop control model. The power supply between shore electricity which is 50Hz and ship electricity which is 50Hz or 60 Hz is achieved according to the grid technology research.
   
+# 📝 Project
 
-
-[**Project**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 
