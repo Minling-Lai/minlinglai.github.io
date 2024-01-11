@@ -23,14 +23,14 @@ google_analytics_id      :  # get google_analytics_id from https://analytics.goo
 author:
   name             : "Minling Lai"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Guangdong University of Technology"
   location         : "GuangZhou, China"
   employer         :
   pubmed           : 
 #  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "minlinglai@foxmail.com"
   researchgate     :  "https://orcid.org/0000-0002-4553-7552"
-  url              :   "https://minlinglai.github.io"
+  url              :  "https://minlinglai.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
