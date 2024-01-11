@@ -28,22 +28,25 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉. 
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/1-s.jpg#pic_left=100x100' ></div></div>
-<div class='paper-box-text' markdown="1">
+<p>
+<img src='images/1-s.jpg#pic_left=100x100' >
+<p>
 
 [Spatial feature point measurement on large-curved surfaces: A portable mobile measurement method based on monocular multi-angle point](https://www.sciencedirect.com/science/article/pii/S1110016822005841)
 
 **Minling Lai**, Huiling Tang, Qilin Bi,ZhenYu Tang
 
-
+<p>
+<img src='images/1-s.jpg#pic_left=100x100' >
+<p>
 
 [Method for detecting surface defects of underwater buildings: Binocular vision based on sinusoidal grating fringe assistance](https://www.sciencedirect.com/science/article/pii/S1110016823005938)
 
 Qilin Bi; **Minling Lai**; Jindong Yu; Zhengyu Tang; Xianbin Teng; Youjie Lu; Jiashu Zou
 
-
-
+<p>
+<img src='images/1-s.jpg#pic_left=100x100' >
+<p>
 
 [Ship Collision Avoidance Navigation Signal Recognition via Vision Sensing and Machine Forecasting](https://ieeexplore.ieee.org/document/10164232)
 
