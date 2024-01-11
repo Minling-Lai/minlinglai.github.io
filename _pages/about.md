@@ -31,7 +31,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 <p>
   
-<img align="left"  src='images/1-s2.jpg' width="150"/ >
+<img align="left" src='images/1-s2.jpg' width="150" />
 
 [Spatial feature point measurement on large-curved surfaces: A portable mobile measurement method based on monocular multi-angle point](https://www.sciencedirect.com/science/article/pii/S1110016822005841)
 
