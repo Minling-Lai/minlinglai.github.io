@@ -29,7 +29,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<p>
+
   
 <img align="left" src='images/1-s2.jpg' width="200" />
 
@@ -37,9 +37,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Minling Lai**, Huiling Tang, Qilin Bi,ZhenYu Tang
 
-</p>
 
-<p>
   
 <img align="left" src='images/1-s2.jpg' width="200" />
 
@@ -47,21 +45,14 @@ My research interest includes neural machine translation and computer vision. I 
 
 Qilin Bi; **Minling Lai**; Jindong Yu; Zhengyu Tang; Xianbin Teng; Youjie Lu; Jiashu Zou
 
-</p>
 
-
-<p>
-  
 <img align="left" src='images/1-s2.jpg' width="200"/>
 
 [Ship Collision Avoidance Navigation Signal Recognition via Vision Sensing and Machine Forecasting](https://ieeexplore.ieee.org/document/10164232)
 
  Qilin Bi; Miaohui Wang; Yijing Huang; **Minling Lai**; Zhijun Liu; Xiuying Bi
 
-</p>
 
-
-<p>
   
 <img align="left" src='images/1-s2.jpg' width="200" />
 
@@ -69,10 +60,8 @@ Qilin Bi; **Minling Lai**; Jindong Yu; Zhengyu Tang; Xianbin Teng; Youjie Lu; Ji
 
 Qilin Bi; **Minling Lai**; Huiling Tang; Yanyao Guo; Jinyuan Li; Xinhong Zeng; Zhijun Liu
 
-</p>
 
 
-<p> 
   
 <img align="left" src='images/1-s2.jpg' width="200" />
 
@@ -80,7 +69,6 @@ Qilin Bi; **Minling Lai**; Huiling Tang; Yanyao Guo; Jinyuan Li; Xinhong Zeng; Z
 
 Qilin Bi; Miaohui Wang; **Minling Lai**; Jiaxin Lin; Jialin Zhang; Xiaoguang Liu
 
-</p>
 
 
   
