@@ -29,62 +29,85 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<p>
+<p align="left">
   
-<img src='images/1-s.jpg#pic_left=10x10'>
+<img src='images/1-s.jpg' width="50"/>
+
+</div>
 
 [Spatial feature point measurement on large-curved surfaces: A portable mobile measurement method based on monocular multi-angle point](https://www.sciencedirect.com/science/article/pii/S1110016822005841)
 
 **Minling Lai**, Huiling Tang, Qilin Bi,ZhenYu Tang
+</div>
+
 
 </p>
 
-<p>
+<p align="left">
   
-<img src='images/1-s.jpg#pic_left=10x10'>
+<img src='images/1-s.jpg' width="50"/>
+
+</div>
 
 [Method for detecting surface defects of underwater buildings: Binocular vision based on sinusoidal grating fringe assistance](https://www.sciencedirect.com/science/article/pii/S1110016823005938)
 
 Qilin Bi; **Minling Lai**; Jindong Yu; Zhengyu Tang; Xianbin Teng; Youjie Lu; Jiashu Zou
+
+</div>
 </p>
 
-<p>
+<p align="left">
   
-<img src='images/1-s.jpg#pic_left=10x10'>
+<img src='images/1-s.jpg' width="50"/>
+
+</div>
   
 [Ship Collision Avoidance Navigation Signal Recognition via Vision Sensing and Machine Forecasting](https://ieeexplore.ieee.org/document/10164232)
 
  Qilin Bi; Miaohui Wang; Yijing Huang; **Minling Lai**; Zhijun Liu; Xiuying Bi
+
+</div>
  
 </p>
 
-<p>
+<p align="left">
   
-<img src='images/1-s.jpg#pic_left=10x10'>
+<img src='images/1-s.jpg' width="50"/>
+
+</div>
 
 [Precise Inspection of Geometric Parameters for Polyvinyl Chloride Pipe Section Based on Computer Vision](https://iieta.org/journals/ts/paper/10.18280/ts.380608)
 
 Qilin Bi; **Minling Lai**; Huiling Tang; Yanyao Guo; Jinyuan Li; Xinhong Zeng; Zhijun Liu
 
+</div>
+
 </p>
 
-<p>
+<p align="left">
   
-<img src='images/1-s.jpg#pic_left=10x10'>
+<img src='images/1-s.jpg' width="50"/>
+
+</div>
 
 [Towards Automatic Surface Inspection for S-PVC Using a Composite Vision-based Method](https://opg.optica.org/ao/abstract.cfm?URI=ao-59-4-1008)
 
 Qilin Bi; Miaohui Wang; **Minling Lai**; Jiaxin Lin; Jialin Zhang; Xiaoguang Liu
 
+</div>
+  
 </p>
 
-<p>
+<p align="left">
   
-<img src='images/1-s.jpg#pic_left=10x10'>
+<img src='images/1-s.jpg' width="50"/>
+
+</div>
   
 [A Seamlessly Switch Method of Double Frequency Ship Electricity Grid from Shore Electricity Grid](https://www.semanticscholar.org/paper/A-Seamlessly-Switch-Method-of-Double-Frequency-Ship-Xiao-Lai/3d03cab764c94727e9f432ea1c697bc7da1c11c8?utm_source=direct_link)
 
 Lemin Xiao; **Minling Lai**; Qilin Bi
+</div>
 
 </p>
   
