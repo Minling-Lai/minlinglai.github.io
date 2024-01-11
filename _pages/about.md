@@ -40,7 +40,7 @@ My research interest includes neural machine translation and computer vision. I 
 **Abstract:** This research introduces a precise and efficient detection method for feature-points distance measurement on the curved surface of large components based on tightly-coupled visual- Inertial measurement unit (referred to as IMU) such as forging, bridge, underwater pier, nuclear power and others manufacturing and quality monitoring sceneries. Basic algorithms and mathematical principles of the tightly-coupled monocular camera-IMU combined positioning module are utilized and real-time estimation model of the relative spatial attitude of the camera in the time domain is proposed. We study the calibration algorithm and mathematical principles of monocular camera external parameters during the measurement process and establish the estimation model of the relative spatial pose of the imaging surface and the object surface. The distance calculation model of the point to be measured on the space surface is established by fusing the camera's internal and external imaging parameters, imaging features and the theory of no distortion of the camera's optical axis. The distance measurement experiment device and the measurement system frame are constructed. The measurement results are validated by comparison against auxiliary target, image stitching and other measurement methods data. The target error within 20 m measured by the proposed method is controlled within 10 mm.
 
   
-<img align="left" src='images/1-s3.jpg' width="200" />
+<img align="left" src='images/1-s3.jpg' width="270" />
 
 [Method for detecting surface defects of underwater buildings: Binocular vision based on sinusoidal grating fringe assistance](https://www.sciencedirect.com/science/article/pii/S1110016823005938)
 
@@ -48,7 +48,7 @@ Qilin Bi; **Minling Lai**; Jindong Yu; Zhengyu Tang; Xianbin Teng; Youjie Lu; Ji
 
 **Abstract:** In underwater building-surface defect detection, high pressure, cold and other underwater factors will cause harm to frogmen, sonar and other detection techniques contain limited information and accuracy is difficult to meet the demand. In view of the above disadvantages, a sine stripe-assisted visual detection method of underwater building surface-defects is proposed. By generating a fixed sine stripe by program and projected it on the surface of the underwater building, and then control a binocular CCD to acquire six frames of sinusoidal stripes with different phases in one sampling period. Experiment results show that the error of our method does not exceed 0.5 mm and the reconstruction efficiency is not less than 5 m2/s in the 3D dimensional measurement of the defects on the surface of the submerged building body.
 
-<img align="left" src='images/1-s4.jpg' width="200"/>
+<img align="left" src='images/1-s4.jpg' width="270"/>
 
 [Ship Collision Avoidance Navigation Signal Recognition via Vision Sensing and Machine Forecasting](https://ieeexplore.ieee.org/document/10164232)
 
@@ -57,7 +57,7 @@ Qilin Bi; **Minling Lai**; Jindong Yu; Zhengyu Tang; Xianbin Teng; Youjie Lu; Ji
 **Abstract:** Ship collision avoidance (SCA) is an important technique in the field of decision-making in marine navigation. Although some promising solutions have been developed recently, there is still the lack of low-cost and reliable sensing equipment. Inspired by the low-cost of camera sensors and the success of machine learning, this paper designs a vision-based method to recognize ships and their micro-features for SCA navigation planning. Firstly, we develop a vision-based bearing, distance and velocity model based on a wide-field optical imaging system. Secondly, optical information is used to construct the micro-characteristic imaging model of ship navigation signals. Thirdly, we have solved the problem between a large field-of-view (FOV) and high-resolution imaging in vision-based marine navigation. Finally, an improved Adaboost algorithm is designed for the intelligent recognition of an open-sea target (ship types and light patterns). The proposed method has been verified by extensive experiments in a practical environment, and the results show that it can effectively and efficiently identify the navigation signal of a target ship.
 
   
-<img align="left" src='images/1-s5.jpg' width="150"/>
+<img align="left" src='images/1-s8.jpg' width="190"/>
 
 [Precise Inspection of Geometric Parameters for Polyvinyl Chloride Pipe Section Based on Computer Vision](https://iieta.org/journals/ts/paper/10.18280/ts.380608)
 
@@ -67,7 +67,7 @@ Qilin Bi; **Minling Lai**; Huiling Tang; Yanyao Guo; Jinyuan Li; Xinhong Zeng; Z
 
 
   
-<img align="left" src='images/1-s6.jpg' width="180"/>
+<img align="left" src='images/1-s6.jpg' width="220"/>
 
 [Towards Automatic Surface Inspection for S-PVC Using a Composite Vision-based Method](https://opg.optica.org/ao/abstract.cfm?URI=ao-59-4-1008)
 
