@@ -57,7 +57,7 @@ Qilin Bi; **Minling Lai**; Jindong Yu; Zhengyu Tang; Xianbin Teng; Youjie Lu; Ji
 **Abstract:** Ship collision avoidance (SCA) is an important technique in the field of decision-making in marine navigation. Although some promising solutions have been developed recently, there is still the lack of low-cost and reliable sensing equipment. Inspired by the low-cost of camera sensors and the success of machine learning, this paper designs a vision-based method to recognize ships and their micro-features for SCA navigation planning. Firstly, we develop a vision-based bearing, distance and velocity model based on a wide-field optical imaging system. Secondly, optical information is used to construct the micro-characteristic imaging model of ship navigation signals. Thirdly, we have solved the problem between a large field-of-view (FOV) and high-resolution imaging in vision-based marine navigation. Finally, an improved Adaboost algorithm is designed for the intelligent recognition of an open-sea target (ship types and light patterns). The proposed method has been verified by extensive experiments in a practical environment, and the results show that it can effectively and efficiently identify the navigation signal of a target ship.
 
   
-<img align="left" src='images/1-s8.jpg' width="190"/>
+<img align="left" src='images/1-s8.jpg' width="250"/>
 
 [Precise Inspection of Geometric Parameters for Polyvinyl Chloride Pipe Section Based on Computer Vision](https://iieta.org/journals/ts/paper/10.18280/ts.380608)
 
@@ -78,7 +78,7 @@ Qilin Bi; Miaohui Wang; **Minling Lai**; Jiaxin Lin; Jialin Zhang; Xiaoguang Liu
 
 
   
-<img align="left" src='images/1-s7.jpg' width="200"/>
+<img align="left" src='images/1-s7.jpg' width="280"/>
 
 [A Seamlessly Switch Method of Double Frequency Ship Electricity Grid from Shore Electricity Grid](https://www.semanticscholar.org/paper/A-Seamlessly-Switch-Method-of-Double-Frequency-Ship-Xiao-Lai/3d03cab764c94727e9f432ea1c697bc7da1c11c8?utm_source=direct_link)
 
