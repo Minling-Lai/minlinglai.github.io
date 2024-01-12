@@ -109,7 +109,8 @@ Lemin Xiao; **Minling Lai**; Qilin Bi/肖乐明，**赖敏玲**，毕齐林
 # 📖 Educations
 - *2021.07 - 2023.12 (now)*, M.S.degree,Electronic Science and Technology,Guangdong University of Technology. 
 - *2016.09 - 2020.06*, B.s.degree,Ship and Ocean Engineering Program,Guangzhou Maritime University.
-- 
+
+
 -*2021.09~2024.07*              广东工业大学                    电子科学与技术              工学硕士（学术型）
 	**成绩**：3.5/4.0
   **所获荣誉**：2023年学业奖学金一等奖；2022年学业奖学金一等奖；2021年学业奖学金二等奖。
