@@ -86,6 +86,7 @@ Lemin Xiao; **Minling Lai**; Qilin Bi
 # 📝 Project
 
 - Dec,2022-Jun,2023                                              [**Development of visual recognition rake operation and maintenance system**](https://github.com)      
+
 **Description**: In order to replace the low time resistance of manual operation and overcome the disadvantages of over-reliance on operation experience, the industrial camera and the corresponding algorithm are used to replace the manual cumbersome operation. The system mainly uses the principle of binocular imaging to realize the three-dimensional point cloud reconstruction of the working rake teeth. The main functions of the designed system include camera correction, image correction and matching, 3D point cloud reproduction of rake teeth, and visualization of wear fluctuations.
 
 
@@ -97,12 +98,13 @@ Lemin Xiao; **Minling Lai**; Qilin Bi
   
 
 
--  Jan,2020-Oct,2020                                              [**Identification and positioning of translucent infusion tubes**](https://github.com)     
+-  Jan,2020-Oct,2020                                             [**Identification and positioning of translucent infusion tubes**](https://github.com)     
 
 **Description**: Relying on vision technology to realize the packaging process of industrial bubble valves, overlapping bubble valves interfere with the positioning, thus affecting the selection of the robotic arm, this project combines information entropy to realize the positioning of overlapping bubble valves.
 
 
 -  Jan,2018-Mar,2019                                             [**PVC Pipe End Face Size - Visual Measurement System for Apparent Defects**](https://github.com)     
+
 **Description**:Pipe surface, end-face size is the detection of PVC pipe is qualified indicators, alternative to manual inspection of vision technology is to achieve intelligent detection of one of the means of pipe, the system covers the detection of pipe surface defects, bubbles, scratches, and end-face size of the intelligent detection.
                      
 
