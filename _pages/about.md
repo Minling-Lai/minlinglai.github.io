@@ -85,13 +85,14 @@ Lemin Xiao; **Minling Lai**; Qilin Bi
   
 # 📝 Project
 
-- Dec,2022-Jun,2023                                              **Development of visual recognition rake operation and maintenance system** (https://github.com)      
+- Dec,2022-Jun,2023                                              [**Development of visual recognition rake operation and maintenance system**](https://github.com)      
 **Description**: In order to replace the low time resistance of manual operation and overcome the disadvantages of over-reliance on operation experience, the industrial camera and the corresponding algorithm are used to replace the manual cumbersome operation. The system mainly uses the principle of binocular imaging to realize the three-dimensional point cloud reconstruction of the working rake teeth. The main functions of the designed system include camera correction, image correction and matching, 3D point cloud reproduction of rake teeth, and visualization of wear fluctuations.
 
 
 
 
 - Jan,2021-Jul,2021                                              [**Egg yolk quality identification**](https://github.com)     
+
 **Description**: Existing egg yolk core selection mainly relies on experienced manual selection, in order to overcome the disadvantages of manual selection, the use of vision technology to achieve the detection of egg core. The project uses the color component information of the egg core as a network input to achieve accurate detection of various types of defects in the egg core, and the system can basically do the detection of defects covering the types of defects in the egg core.
   
 
@@ -102,7 +103,6 @@ Lemin Xiao; **Minling Lai**; Qilin Bi
 
 
 -  Jan,2018-Mar,2019                                             [**PVC Pipe End Face Size - Visual Measurement System for Apparent Defects**](https://github.com)     
-
 **Description**:Pipe surface, end-face size is the detection of PVC pipe is qualified indicators, alternative to manual inspection of vision technology is to achieve intelligent detection of one of the means of pipe, the system covers the detection of pipe surface defects, bubbles, scratches, and end-face size of the intelligent detection.
                      
 
