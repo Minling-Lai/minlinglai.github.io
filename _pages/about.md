@@ -20,9 +20,6 @@ redirect_from:
 Currently, I am a research student at Guangdong University of Technology. My current research interest is computer vision， specifically studying image noising for rain, fog, and snow.  I have published over 6 papers in international journals Zone 2-3.
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉  . 
-- *2022.02*: &nbsp;🎉🎉. 
 
 # 📝 Publications 
 
@@ -108,21 +105,11 @@ Lemin Xiao; **Minling Lai**; Qilin Bi
 **Description**:Pipe surface, end-face size is the detection of PVC pipe is qualified indicators, alternative to manual inspection of vision technology is to achieve intelligent detection of one of the means of pipe, the system covers the detection of pipe surface defects, bubbles, scratches, and end-face size of the intelligent detection.
                      
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-
 
 # 📖 Educations
 - *2021.07 - 2023.12 (now)*, M.S.degree,Electronic Science and Technology,Guangdong University of Technology. 
 - *2016.09 - 2020.06*, B.s.degree,Ship and Ocean Engineering Program,Guangzhou Maritime University. 
 
-
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 
 # 💻 Internships
