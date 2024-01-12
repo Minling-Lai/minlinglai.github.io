@@ -80,7 +80,7 @@ Lemin Xiao; **Minling Lai**; Qilin Bi/肖乐明，**赖敏玲**，毕齐林
 
 **Abstract:** In this work, the seamlessly switch systems between shore electricity and ship electricity of dual frequency mode (50Hz-60Hz and 50Hz-50Hz) is proposed. It is mainly used in the power supply of ships (Abbreviated as SEG) which stay in the port, and the problem that the grid needs to be disconnected when the ship is provided with electricity from the shore electricity is resolved. Firstly, the phase locked loop (Abbreviated as PLL) control model is established in seamlessly switch systems between shore electricity and ship electricity of dual frequency mode. Secondly, the V/f control model of seamlessly switch systems is established, and the frequency (f) follow is implemented in seamlessly switch systems combined with the phase locked loop control model. At last, the P/Q control model of seamlessly switch systems is proposed. The load power is transferred from the ship's generator to the shore electricity grid combined with phase locked loop control model. The power supply between shore electricity which is 50Hz and ship electricity which is 50Hz or 60 Hz is achieved according to the grid technology research.
   
-# 📝 Project
+# 📝 Project/项目
 
 - Dec,2022-Jun,2023                                              [**Development of visual recognition rake operation and maintenance system/基于双目视觉的耙齿磨损识别**](https://github.com)      
 
@@ -106,16 +106,22 @@ Lemin Xiao; **Minling Lai**; Qilin Bi/肖乐明，**赖敏玲**，毕齐林
                      
 
 
-# 📖 Educations
+# 📖 Educations/教育经历
 - *2021.07 - 2023.12 (now)*, M.S.degree,Electronic Science and Technology,Guangdong University of Technology. 
 - *2016.09 - 2020.06*, B.s.degree,Ship and Ocean Engineering Program,Guangzhou Maritime University.
 
 
 -*2021.09~2024.07*              广东工业大学                    电子科学与技术              工学硕士（学术型）
-	**成绩**：3.5/4.0
-  **所获荣誉**：2023年学业奖学金一等奖；2022年学业奖学金一等奖；2021年学业奖学金二等奖。
--*2016.09~2020.07*              广州航海学院                    船舶与海洋工程                     工学学士             
+
   **成绩**：3.5/4.0
+  
+  **所获荣誉**：2023年学业奖学金一等奖；2022年学业奖学金一等奖；2021年学业奖学金二等奖。
+
+  
+-*2016.09~2020.07*              广州航海学院                    船舶与海洋工程                     工学学士       
+
+  **成绩**：3.5/4.0
+  
   **所获荣誉**：优秀毕业生 、校优秀班干部 、校三等奖学金(2次)、国家励志奖学金、科技创新优秀个人奖(2次)。
 
 
