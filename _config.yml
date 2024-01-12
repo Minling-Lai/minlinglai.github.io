@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Minling lai Homepage"
+title                    : "Minling lai Homepage"/"赖敏玲的个人主页"
 description              : "I am a third year postgraduate student majoring in electrical science and technology in China "
 repository               : "Minling Lai/minlinglai.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Minling Lai"
+  name             : "Minling Lai"/"赖敏玲"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "GuangZhou, China"
+  bio              : "Guangdong University of Technology"/"广东工业大学"
+  location         : "GuangZhou, China"/"中国，广东广州"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
